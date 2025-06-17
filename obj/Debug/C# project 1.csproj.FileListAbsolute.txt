@@ -1,0 +1,56 @@
+Z:\C-sharp\C#Project\C# project 1\C# project 1\bin\Debug\C# project 1.exe.config
+Z:\C-sharp\C#Project\C# project 1\C# project 1\bin\Debug\C# project 1.exe
+Z:\C-sharp\C#Project\C# project 1\C# project 1\bin\Debug\C# project 1.pdb
+Z:\C-sharp\C#Project\C# project 1\C# project 1\bin\Debug\System.Data.SQLite.dll
+Z:\C-sharp\C#Project\C# project 1\C# project 1\bin\Debug\System.Data.SQLite.xml
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# project 1.csproj.AssemblyReference.cache
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C__project_1.Properties.Resources.resources
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# project 1.csproj.GenerateResource.cache
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# project 1.csproj.CoreCompileInputs.cache
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# proje.AB2D9AD6.Up2Date
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# project 1.exe
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C# project 1.pdb
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C__project_1.Views.LoginForm.resources
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C__project_1.Views.MainForm.resources
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C__project_1.Views.TimetableForm.resources
+Z:\C-sharp\C#Project\C# project 1\C# project 1\obj\Debug\C__project_1.Form1.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.csproj.AssemblyReference.cache
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.exe.config
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C__project_1.Form1.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C__project_1.Properties.Resources.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddCourseAction.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddStudentAction.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddUserAction.resources
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.csproj.GenerateResource.cache
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.csproj.CoreCompileInputs.cache
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.exe
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# project 1.pdb
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\bin\Debug\C# project 1.exe.config
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\bin\Debug\C# project 1.exe
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\bin\Debug\C# project 1.pdb
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\bin\Debug\System.Data.SQLite.dll
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\bin\Debug\System.Data.SQLite.xml
+C:\Users\lathu\OneDrive\Attachments\New\UMS\C# project 1\obj\Debug\C# proje.AB2D9AD6.Up2Date
+Z:\C-sharp\new\UMS\C# project 1\bin\Debug\C# project 1.exe.config
+Z:\C-sharp\new\UMS\C# project 1\bin\Debug\C# project 1.exe
+Z:\C-sharp\new\UMS\C# project 1\bin\Debug\C# project 1.pdb
+Z:\C-sharp\new\UMS\C# project 1\bin\Debug\System.Data.SQLite.dll
+Z:\C-sharp\new\UMS\C# project 1\bin\Debug\System.Data.SQLite.xml
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# project 1.csproj.AssemblyReference.cache
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Form1.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Properties.Resources.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.AdminPanel.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddCourseAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddStudentAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddUserAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# project 1.csproj.GenerateResource.cache
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# project 1.csproj.CoreCompileInputs.cache
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# proje.AB2D9AD6.Up2Date
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# project 1.exe
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C# project 1.pdb
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddSubjectAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddExamAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddMarksActions.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.AddRoomAction.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.CourseActions.resources
+Z:\C-sharp\new\UMS\C# project 1\obj\Debug\C__project_1.Views.DashboardFls.RoomActions.resources
